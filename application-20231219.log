@@ -1,0 +1,15 @@
+2023-12-19 13:51:02.034 [main] INFO  ch.framsteg.artikelstamm.pharmacode.preparing.Harvester - Path to input file: /home/debenath/Entwicklung/Artikelstamm/data/pharmacode.xlsx
+2023-12-19 13:51:02.972 [main] INFO  ch.framsteg.artikelstamm.pharmacode.preparing.Harvester - Column number for GTINs: 1
+2023-12-19 13:51:03.485 [main] INFO  ch.framsteg.artikelstamm.pharmacode.preparing.Harvester - Column number for PHARs: 0
+2023-12-19 14:50:49.483 [main] INFO  ch.framsteg.artikelstamm.pharmacode.preparing.Harvester - Path to input file: /home/debenath/Entwicklung/Artikelstamm/data/pharmacode.xlsx
+2023-12-19 14:50:50.229 [main] INFO  ch.framsteg.artikelstamm.pharmacode.preparing.Harvester - Column number for GTINs: 1
+2023-12-19 14:50:50.730 [main] INFO  ch.framsteg.artikelstamm.pharmacode.preparing.Harvester - Column number for PHARs: 0
+2023-12-19 14:50:51.799 [main] INFO  ch.framsteg.artikelstamm.pharmacode.preparing.Harvester - Process has successfully finished
+2023-12-19 14:53:41.955 [main] INFO  ch.framsteg.artikelstamm.pharmacode.preparing.Harvester - Path to input file: /home/debenath/Entwicklung/Artikelstamm/data/pharmacode.xlsx
+2023-12-19 14:53:42.546 [main] INFO  ch.framsteg.artikelstamm.pharmacode.preparing.Harvester - Column number for GTINs: 1
+2023-12-19 14:53:43.074 [main] INFO  ch.framsteg.artikelstamm.pharmacode.preparing.Harvester - Column number for PHARs: 0
+2023-12-19 14:53:44.093 [main] INFO  ch.framsteg.artikelstamm.pharmacode.preparing.Harvester - Process has successfully finished. 14’220 lines written.
+2023-12-19 14:58:43.799 [main] INFO  ch.framsteg.artikelstamm.pharmacode.preparing.Harvester - Path to input file: /home/debenath/Entwicklung/Artikelstamm/data/pharmacode.xlsx
+2023-12-19 14:58:44.289 [main] INFO  ch.framsteg.artikelstamm.pharmacode.preparing.Harvester - Column number for GTINs: 1
+2023-12-19 14:58:44.913 [main] INFO  ch.framsteg.artikelstamm.pharmacode.preparing.Harvester - Column number for PHARs: 0
+2023-12-19 14:58:45.998 [main] INFO  ch.framsteg.artikelstamm.pharmacode.preparing.Harvester - Process has successfully finished. 14’220 lines written to /home/debenath/Entwicklung/Artikelstamm/data/1702994325986_pharmacode.csv.
